@@ -13,7 +13,7 @@ nuove categorie di prodotti.
 Ma prima un'introduzione al nostro sistema:
 
 * Tutti i prodotti (items) hanno un valore SellIn che denota il numero di giorni entro i quali  dobbiamo vendere quel prodotto.
-* Tutti i prodotti, poi, hanno un valore Quality che denota quanto il prodotto sia di valore.
+* Tutti i prodotti, poi, hanno un valore Quality che donota quanto il prodotto sia di valore.
 * Alla fine di ogni giorno, il nostro sistema decrementa entrambi questi valori per tutti i nostri prodotti.
 
 Molto semplice, vero? Beh, qui è dove le cose iniziano a diventare interessanti:

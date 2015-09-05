@@ -35,6 +35,7 @@ public class ApprovalTest {
 		}
 		else {
 			writeFile(file, new ByteArrayInputStream(baos.toByteArray()));
+			Assert.assertTrue("File for goldMaster test non present, created with current output.", false);
 		}
     }
     
