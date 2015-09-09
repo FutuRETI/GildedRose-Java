@@ -16,7 +16,7 @@
     <sonar.jacoco.jar>${basedir}/lib/jacocoagent.jar</sonar.jacoco.jar>
   </properties>
   <packaging>jar</packaging>
-  <name>GildedRose</name>
+  <name>GildedRose Kata for Java</name>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
