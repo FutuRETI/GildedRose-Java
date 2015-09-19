@@ -38,7 +38,7 @@ necessita un aggiornamento del nostro sistema:
 * Retail service – ogni giorno abbiamo circa tra i 5 e i 10 clienti che comprano ciascuno dai 2
   ai 6 oggetti (l'esatto numero di clienti e l'esatto numero di oggetti comprati devono essere
   randomizzati). Se non disponiamo del prodotto che il nostro cliente ci chiede, noi non possiamo
-  offrirgli nessun'altro prodotto, ma lasciamo che se ne vada senza acquistare il prodotto cercato.
+  offrirgli nessun altro prodotto, ma lasciamo che se ne vada senza acquistare il prodotto cercato.
        
 * Supply service – ogni terzo giorno riceviamo una fornitura di un numero tra i 40 e i 60 nuovi
   prodotti (il tipo dei prodotti e il loro esatto numero devono essere entrambi randomizzati).
